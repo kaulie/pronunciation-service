@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local WhisperX runtime (not committed)
+pyenv/
+.venv/
+venv/
+hf-cache/
+__pycache__/
+*.pyc
+*.log
